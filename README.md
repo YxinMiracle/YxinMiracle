@@ -1,4 +1,4 @@
-## 我是YxinMiracle 
+## 我是YxinMiracle 🎉
 
 - 👷‍♂️ 在读研究牲一名，网络空间安全学院计算机技术专业，本科专业为软件工程。
 - 💌 代码仓库： <a href="https://gitee.com/yxinmiracle">Gitee</a> | 由于之前都是在Gitee提交，所以GitHub提交记录较少。
@@ -8,6 +8,5 @@
 
 ## 今年汇总 ✨
 
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=YxinMiracle&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=radical" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YxinMiracle&layout=compact&hide=javascript&hide_title=true&hide_border=true&theme=radical&locale=cn" />
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YxinMiracle&show_icons=true&theme=radical)
