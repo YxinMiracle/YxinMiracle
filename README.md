@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Yongxin Cai 👋
+# Hi, I'm YxinMiracle 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=780&lines=Cybersecurity+%C3%97+Large+Language+Models;Cyber+Threat+Intelligence+%C3%97+Detection+Engineering;Turning+Threat+Reports+into+Actionable+Defense" alt="Typing SVG" />
 
