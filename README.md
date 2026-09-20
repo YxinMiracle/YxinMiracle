@@ -7,8 +7,8 @@
 <p>
   <a href="https://blog.yxinmiracle.com/"><img src="https://img.shields.io/badge/Blog-blog.yxinmiracle.com-58A6FF?style=flat-square&logo=googlechrome&logoColor=white" alt="Blog" /></a>
   <a href="https://github.com/YxinMiracle"><img src="https://img.shields.io/badge/GitHub-YxinMiracle-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/CCF--A_Papers-2-F5A623?style=flat-square" alt="2 CCF-A papers" />
-  <img src="https://img.shields.io/badge/Focus-AI_for_Security-8B5CF6?style=flat-square" alt="AI for Security" />
+  <img src="https://img.shields.io/badge/CCF--A_Conferences-2-F5A623?style=flat-square" alt="2 papers at CCF-A conferences" />
+  <img src="https://img.shields.io/badge/Focus-LLM_Security-8B5CF6?style=flat-square" alt="LLM Security" />
 </p>
 
 <sub>Researcher at Guangzhou University · Building intelligent systems for cyber defense</sub>
@@ -62,43 +62,10 @@ open src  : Contributor to ByteDance/deer-flow and SigmaHQ/sigma
 
 ### Selected publications
 
-<table>
-  <tr>
-    <td width="150" align="center">
-      <a href="https://www.usenix.org/conference/usenixsecurity26/presentation/cai">
-        <img src="https://img.shields.io/badge/USENIX-SECURITY_'26-D71920?style=for-the-badge&labelColor=20232A" alt="USENIX Security 2026" />
-      </a>
-      <br />
-      <img src="https://img.shields.io/badge/CCF-A-F5A623?style=flat-square" alt="CCF-A" />
-    </td>
-    <td>
-      <strong><a href="https://www.usenix.org/conference/usenixsecurity26/presentation/cai">From Texts to Rules: Generating Sigma Rules with Large Language Models from Cyber Threat Reports</a></strong>
-      <br />
-      <sub><strong>Yongxin Cai</strong>, Jing Qiu, Qingming Li, Du Cheng, Lei Chen</sub>
-      <br />
-      <sub>35th USENIX Security Symposium · 2026</sub>
-      <br /><br />
-      <a href="https://www.usenix.org/conference/usenixsecurity26/presentation/cai"><img src="https://img.shields.io/badge/Paper-USENIX-2F81F7?style=flat-square" alt="Paper" /></a>
-      <a href="https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_cai.pdf"><img src="https://img.shields.io/badge/PDF-Download-B31B1B?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="150" align="center">
-      <a href="https://doi.org/10.1145/3726302.3729880">
-        <img src="https://img.shields.io/badge/ACM-SIGIR_'25-0085CA?style=for-the-badge&labelColor=20232A" alt="ACM SIGIR 2025" />
-      </a>
-      <br />
-      <img src="https://img.shields.io/badge/CCF-A-F5A623?style=flat-square" alt="CCF-A" />
-    </td>
-    <td>
-      <strong><a href="https://doi.org/10.1145/3726302.3729880">A Knowledge Extraction Framework on Cyber Threat Reports with Enhanced Security Profiles</a></strong>
-      <br />
-      <sub><strong>Yongxin Cai</strong>, Jing Qiu, Fan Zhang, Qiang Li, Lei Chen</sub>
-      <br />
-      <sub>48th ACM SIGIR Conference · 2025 · pp. 326–336</sub>
-      <br /><br />
-      <a href="https://doi.org/10.1145/3726302.3729880"><img src="https://img.shields.io/badge/Paper-ACM_DL-2F81F7?style=flat-square" alt="Paper" /></a>
-      <a href="https://sigir2025.dei.unipd.it/detailed-program/paper?paper=6a9aeddfc689c1d0e3b9ccc3ab651bc5"><img src="https://img.shields.io/badge/Conference-SIGIR_'25-0085CA?style=flat-square" alt="SIGIR 2025" /></a>
-    </td>
-  </tr>
-</table>
+- 🎉🎉 — **Accepted paper at [USENIX Security 2026](https://www.usenix.org/conference/usenixsecurity26/presentation/cai)!** `CCF-A Conference`  
+  *From Texts to Rules: Generating Sigma Rules with Large Language Models from Cyber Threat Reports* · [Paper](https://www.usenix.org/conference/usenixsecurity26/presentation/cai) · [PDF](https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_cai.pdf)
+
+- 🎉🎉 — **Accepted paper at [ACM SIGIR 2025](https://doi.org/10.1145/3726302.3729880)!** `CCF-A Conference`  
+  *A Knowledge Extraction Framework on Cyber Threat Reports with Enhanced Security Profiles* · [Paper](https://doi.org/10.1145/3726302.3729880) · [Conference](https://sigir2025.dei.unipd.it/detailed-program/paper?paper=6a9aeddfc689c1d0e3b9ccc3ab651bc5)
+
+
