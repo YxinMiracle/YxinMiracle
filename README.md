@@ -29,9 +29,9 @@ open src  : Contributor to ByteDance/deer-flow and SigmaHQ/sigma
 
 ### Open-source contributions
 
-<table>
+<table width="100%" style="table-layout: fixed;">
   <tr>
-    <td width="50%" align="center">
+    <td width="33%" align="center" valign="top">
       <a href="https://github.com/bytedance/deer-flow">
         <img src="https://github.com/bytedance.png?size=120" width="72" alt="ByteDance" />
       </a>
@@ -44,7 +44,7 @@ open src  : Contributor to ByteDance/deer-flow and SigmaHQ/sigma
         <img src="https://img.shields.io/badge/View_Project-deer--flow-00C8FF?style=for-the-badge&logo=github&logoColor=white" alt="View DeerFlow" />
       </a>
     </td>
-    <td width="50%" align="center">
+    <td width="33%" align="center" valign="top">
       <a href="https://github.com/SigmaHQ/sigma">
         <img src="https://github.com/SigmaHQ.png?size=120" width="72" alt="SigmaHQ" />
       </a>
@@ -55,6 +55,19 @@ open src  : Contributor to ByteDance/deer-flow and SigmaHQ/sigma
       <br /><br />
       <a href="https://github.com/SigmaHQ/sigma">
         <img src="https://img.shields.io/badge/View_Project-sigma-7A3FF2?style=for-the-badge&logo=github&logoColor=white" alt="View Sigma" />
+      </a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://huggingface.co/collections/Qwen/qwen3guard">
+        <img src="https://qwenlm.github.io/img/logo.png" width="72" alt="Qwen" />
+      </a>
+      <br />
+      <strong>Qwen · Qwen3Guard</strong>
+      <br />
+      <sub>Open-source contributor</sub>
+      <br /><br />
+      <a href="https://huggingface.co/collections/Qwen/qwen3guard">
+        <img src="https://img.shields.io/badge/View_Collection-Qwen3Guard-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" alt="View Qwen3Guard" />
       </a>
     </td>
   </tr>
