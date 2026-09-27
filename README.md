@@ -31,61 +31,66 @@ open src  : DeerFlow · Sigma · Qwen3Guard · Agent-Native
 
 ### Open-source contributions
 
-<table align="center" width="100%">
+I contribute to [OpenSandbox](https://github.com/opensandbox-group/OpenSandbox), [DeerFlow](https://github.com/bytedance/deer-flow), [Sigma](https://github.com/SigmaHQ/sigma), [Qwen3Guard](https://huggingface.co/collections/Qwen/qwen3guard), and [Agent-Native](https://github.com/BuilderIO/agent-native).
+
+<br />
+
+<table width="100%">
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="20%" align="center" valign="top">
+      <br />
+      <a href="https://github.com/opensandbox-group/OpenSandbox">
+        <img src="https://github.com/opensandbox-group.png?size=120" width="60" height="60" alt="OpenSandbox" />
+      </a>
+      <br /><br />
+      <strong><a href="https://github.com/opensandbox-group/OpenSandbox">OpenSandbox</a></strong>
+      <br />
+      <sub>SANDBOX</sub>
+      <br /><br />
+    </td>
+    <td width="20%" align="center" valign="top">
+      <br />
       <a href="https://github.com/bytedance/deer-flow">
-        <img src="https://github.com/bytedance.png?size=120" width="72" alt="ByteDance" />
+        <img src="https://github.com/bytedance.png?size=120" width="60" height="60" alt="ByteDance" />
       </a>
-      <br />
-      <strong>ByteDance · DeerFlow</strong>
-      <br />
-      <sub>Open-source contributor</sub>
       <br /><br />
-      <a href="https://github.com/bytedance/deer-flow">
-        <img src="https://img.shields.io/badge/View_Project-deer--flow-00C8FF?style=for-the-badge&logo=github&logoColor=white" alt="View DeerFlow" />
-      </a>
+      <strong><a href="https://github.com/bytedance/deer-flow">DeerFlow</a></strong>
+      <br />
+      <sub>AGENTS</sub>
+      <br /><br />
     </td>
-    <td width="50%" align="center" valign="top">
+    <td width="20%" align="center" valign="top">
+      <br />
       <a href="https://github.com/SigmaHQ/sigma">
-        <img src="https://github.com/SigmaHQ.png?size=120" width="72" alt="SigmaHQ" />
+        <img src="https://github.com/SigmaHQ.png?size=120" width="60" height="60" alt="SigmaHQ" />
       </a>
-      <br />
-      <strong>SigmaHQ · Sigma</strong>
-      <br />
-      <sub>Open-source contributor</sub>
       <br /><br />
-      <a href="https://github.com/SigmaHQ/sigma">
-        <img src="https://img.shields.io/badge/View_Project-sigma-7A3FF2?style=for-the-badge&logo=github&logoColor=white" alt="View Sigma" />
-      </a>
+      <strong><a href="https://github.com/SigmaHQ/sigma">Sigma</a></strong>
+      <br />
+      <sub>DETECTION</sub>
+      <br /><br />
     </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="20%" align="center" valign="top">
+      <br />
       <a href="https://huggingface.co/collections/Qwen/qwen3guard">
-        <img src="https://qwenlm.github.io/img/logo.png" width="72" alt="Qwen" />
+        <img src="https://qwenlm.github.io/img/logo.png" width="60" height="60" alt="Qwen" />
       </a>
-      <br />
-      <strong>Qwen · Qwen3Guard</strong>
-      <br />
-      <sub>Open-source contributor</sub>
       <br /><br />
-      <a href="https://huggingface.co/collections/Qwen/qwen3guard">
-        <img src="https://img.shields.io/badge/View_Collection-Qwen3Guard-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" alt="View Qwen3Guard" />
-      </a>
+      <strong><a href="https://huggingface.co/collections/Qwen/qwen3guard">Qwen3Guard</a></strong>
+      <br />
+      <sub>AI SAFETY</sub>
+      <br /><br />
     </td>
-    <td width="50%" align="center" valign="top">
+    <td width="20%" align="center" valign="top">
+      <br />
       <a href="https://github.com/BuilderIO/agent-native">
-        <img src="https://avatars.githubusercontent.com/u/35700027?s=120&amp;v=4" width="72" alt="Builder.io" />
+        <img src="https://avatars.githubusercontent.com/u/35700027?s=120&amp;v=4" width="60" height="60" alt="Builder.io" />
       </a>
-      <br />
-      <strong>Builder.io · Agent-Native</strong>
-      <br />
-      <sub>Open-source contributor</sub>
       <br /><br />
-      <a href="https://github.com/BuilderIO/agent-native">
-        <img src="https://img.shields.io/badge/View_Project-agent--native-18A999?style=for-the-badge&logo=github&logoColor=white" alt="View Agent-Native" />
-      </a>
+      <strong><a href="https://github.com/BuilderIO/agent-native">Agent&#8209;Native</a></strong>
+      <br />
+      <sub>TOOLING</sub>
+      <br /><br />
     </td>
   </tr>
 </table>
