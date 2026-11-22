@@ -2,6 +2,10 @@
 
 <h1>Hi, I'm YxinMiracle 👋</h1>
 
+<p>
+  <img src="./assets/veni-vidi-vici.gif" width="760" alt="VENI. VIDI. VICI" />
+</p>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=21&amp;duration=2800&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Large+Language+Model+Security;Natural+Language+Processing+%C3%97+AI+Safety;LLM+Guardrails+%C2%B7+Red+Teaming+%C2%B7+Agent+Security;Cyber+Threat+Reports+%C3%97+Large+Language+Models" alt="LLM Security, NLP, Guardrails, Red Teaming, and Agent Security" />
 
 <p>
